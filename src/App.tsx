@@ -24,6 +24,7 @@ export default function App() {
   };
 
   return (
+    
     <div className="min-h-screen bg-gradient-to-r from-slate-900 via-blue-900 to-indigo-900 text-white flex flex-col items-center py-12 px-4">
       <h1 className="text-4xl md:text-5xl font-bold mb-10 tracking-tight text-white drop-shadow-lg">
         Task Manager
@@ -96,5 +97,6 @@ export default function App() {
         ))}
       </div>
     </div>
+  
   );
 }

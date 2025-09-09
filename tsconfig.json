@@ -1,11 +1,11 @@
 {
-<<<<<<< HEAD
+
   "files": [],
   "references": [
     { "path": "./tsconfig.app.json" },
     { "path": "./tsconfig.node.json" }
-  ]
-=======
+  ],
+
   "compilerOptions": {
     /* Visit https://aka.ms/tsconfig to read more about this file */
 
@@ -117,5 +117,5 @@
     // "skipDefaultLibCheck": true,                      /* Skip type checking .d.ts files that are included with TypeScript. */
     "skipLibCheck": true                                 /* Skip type checking all .d.ts files. */
   }
->>>>>>> e85aee1da75ecc159df78c96d539e7cd8357aece
+
 }
